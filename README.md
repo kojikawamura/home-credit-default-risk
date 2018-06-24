@@ -1,2 +1,2 @@
 # home-credit-default-risk
-Kaggle Competition: Home Credit Default Risk
+Sample submission for the competition "Home Credit Default Risk" on Kaggle.
